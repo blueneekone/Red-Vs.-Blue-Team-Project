@@ -111,3 +111,14 @@ In the next week, we will cover the specialized field of digital forensics. We w
 
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+---
+
+## Week 20 Homework Solution: Red Vs. Blue Team Project
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Week 20 Homework Solution: Red Vs. Blue Team Project](https://github.com/karma-786/Red-Vs.-Blue-Team-Project/blob/main/Project%202%20KVP%20-%20Red%20Vs.%20Blue%20Team.pdf)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
